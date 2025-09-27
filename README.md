@@ -7,5 +7,5 @@ Valheim will contain documentation on how to start and maintain your own game se
 
 adguard-home will contain steps and proof of concept to starting the DNS filter
 
-pfsense will contain an in depth VLAN setup using a hypervisor
+pfsense will contain an in depth VLAN setup using VirtualBox
 
